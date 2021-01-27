@@ -2,3 +2,4 @@
     dev version added
     rebase
     commit 1 in dev
+    commit 2 in dev
