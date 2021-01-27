@@ -1,3 +1,4 @@
     hi new life
     dev version added
     rebase
+    commit 1 in dev
